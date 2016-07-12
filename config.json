@@ -1,7 +1,7 @@
 {
 "DATABASE_HOSTS": [
     {
-        "HOSTNAME": "db",
+        "HOSTNAME": "mysql",
         "PORT": 3306,
         "SHARDS": [
             {
@@ -17,7 +17,7 @@
         ]
     },
     {
-        "HOSTNAME": "db",
+        "HOSTNAME": "mysql",
         "PORT": 3306, 
         "SHARDS": [
             {
