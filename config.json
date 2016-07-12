@@ -15,23 +15,6 @@
                 "OPEN": true
             }
         ]
-    },
-    {
-        "HOSTNAME": "mysql",
-        "PORT": 3306, 
-        "SHARDS": [
-            {
-                "ID": 2,
-                "SCHEMA_NAME": "nylas_2",
-                "OPEN": true
-            },
-            {
-                "ID": 3,
-                "SCHEMA_NAME": "nylas_3",
-                "OPEN": true,
-                "DISABLED": true
-            }
-        ]
     }
 ],
 
